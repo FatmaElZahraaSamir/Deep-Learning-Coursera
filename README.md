@@ -1,1 +1,1 @@
-# ![Deep-Learning-Coursera](https://github.com/FatmaElZahraaSamir/Deep-Learning-Coursera/blob/master/logo/deeplearning-ai.png =250x250)
+# ![Deep-Learning-Coursera](https://github.com/FatmaElZahraaSamir/Deep-Learning-Coursera/blob/master/logo/deeplearning-ai.png){:height="50%" width="50%"}
